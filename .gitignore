@@ -1,0 +1,6 @@
+# Virtual environment for testing
+.tox
+*.egg-info
+*/.env
+*venv
+*__pycache__

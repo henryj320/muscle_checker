@@ -1,0 +1,51 @@
+{
+    "groups": [
+        {
+            "name": "Push",
+            "muscles": [
+                "Pecs",
+                "Triceps",
+                "Front Deltoids"
+            ]
+        },
+        {
+            "name": "Legs",
+            "muscles": [
+                "Glutes",
+                "Quads",
+                "Hamstrings",
+                "Calves"
+            ]
+        }
+    ],
+
+    "muscles": [
+        {
+            "name": "Pecs",
+            "exercises": [
+                "Bench Press",
+                "Incline BP"
+            ]
+        },
+        {
+            "name": "Triceps",
+            "exercises": [
+                "Tricep Pull-Downs",
+                "Close Grip Bench Press"
+            ]
+        },
+        {
+            "name": "Front Deltoids",
+            "exercises": [
+                "Front Shoulder Raises"
+            ]
+        },
+        {
+            "name": "Quads",
+            "exercises": [
+                "Squats",
+                "Leg Press"
+            ]
+        }
+    ]
+}

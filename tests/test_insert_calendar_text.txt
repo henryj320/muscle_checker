@@ -1,0 +1,7 @@
+An example calendar text file for the tests
+Bench Press:
+40KG (14)
+Tricep Pull-Downs:
+27KG (14)
+Leg Press:
+155KG (12)
